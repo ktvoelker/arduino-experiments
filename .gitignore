@@ -1,0 +1,5 @@
+.*.sw*
+/core.a
+/platform.txt
+*.elf
+*.hex
